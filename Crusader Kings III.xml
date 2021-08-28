@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile gpasupported="0" lock="0" name="Crusader Kings III" lastplayeddate="2021-08-27T20:49:12" gameid="" gkeysdk="0" guid="{657633DF-882F-4310-B507-AEFEBBDEDD9A}" launchable="1">
+    <description></description>
+    <target path="D:\SteamLibrary\steamapps\common\Crusader Kings III\binaries\ck3.exe"/>
+    <signature executable="" value="" name="" key=""/>
+    <macros>
+      <macro name="Esc" color="4278246655" hidden="false" guid="{EF80D139-7A6F-49B6-8236-E8C88CD24484}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro name="W" color="4278246655" hidden="false" guid="{FDF1BD9E-CCA5-4AEB-B2C1-FCD46F7C8B1D}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro name="A" color="4278246655" hidden="false" guid="{9F93C0A1-1743-41DC-9385-4D7CC7E7E669}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro name="S" color="4278246655" hidden="false" guid="{EC7B26C3-3388-48DE-A1E8-4323F83BDC80}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro name="D" color="4278246655" hidden="false" guid="{FC4A596D-72C3-440C-A16F-488738211588}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro name="Home Realm Capital" color="4278246655" hidden="false" guid="{17F7A29B-5927-45D1-AF7C-6EFDFC48BD80}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="HOME"/>
+        </keystroke>
+      </macro>
+      <macro name="Space Pause" color="4278246655" hidden="false" guid="{2644228C-F31D-40F0-9E56-DB49CC7117B8}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment macroguid="{EF80D139-7A6F-49B6-8236-E8C88CD24484}" original="false" backup="false" shiftstate="1" contextid="G1"/>
+      <assignment macroguid="{FDF1BD9E-CCA5-4AEB-B2C1-FCD46F7C8B1D}" original="false" backup="false" shiftstate="1" contextid="G4"/>
+      <assignment macroguid="{9F93C0A1-1743-41DC-9385-4D7CC7E7E669}" original="false" backup="false" shiftstate="1" contextid="G10"/>
+      <assignment macroguid="{EC7B26C3-3388-48DE-A1E8-4323F83BDC80}" original="false" backup="false" shiftstate="1" contextid="G11"/>
+      <assignment macroguid="{FC4A596D-72C3-440C-A16F-488738211588}" original="false" backup="false" shiftstate="1" contextid="G12"/>
+      <assignment macroguid="{17F7A29B-5927-45D1-AF7C-6EFDFC48BD80}" original="false" backup="false" shiftstate="1" contextid="G19"/>
+      <assignment macroguid="{2644228C-F31D-40F0-9E56-DB49CC7117B8}" original="false" backup="false" shiftstate="1" contextid="G22"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode color="#ffffff" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>

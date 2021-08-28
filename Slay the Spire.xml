@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile gpasupported="0" lock="0" name="Slay the Spire" lastplayeddate="" gameid="" gkeysdk="0" guid="{E1773738-92B3-4471-9BF5-AA1952D12D7A}" launchable="1">
+    <description></description>
+    <target path="D:\STEAMLIBRARY\STEAMAPPS\COMMON\SLAYTHESPIRE\SLAYTHESPIRE.EXE"/>
+    <signature executable="" value="" name="" key=""/>
+    <macros>
+      <macro name="Enter Confirm" color="4278246655" hidden="false" guid="{998C5166-0D54-4F11-9A55-69EA23653896}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ENTER"/>
+        </keystroke>
+      </macro>
+      <macro name="Esc" color="4278246655" hidden="false" guid="{A1E8ABD7-3641-4F7C-9C59-EC8831D74B36}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro name="M Map" color="4278246655" hidden="false" guid="{63937DFF-D7C0-4D53-B946-33C514F3F6C6}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+        </keystroke>
+      </macro>
+      <macro name="D View deck" color="4278246655" hidden="false" guid="{7C548ABA-7674-4660-9381-6DB5F9D370A1}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro name="A Draw pile" color="4278246655" hidden="false" guid="{3182E00F-BCE0-40E8-8BF8-6F5E40222A0B}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro name="S Discard pile" color="4278246655" hidden="false" guid="{3CDA0B9C-7560-41AB-83DA-3CC3D5B12DE5}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro name="X Exhaust pile" color="4278246655" hidden="false" guid="{D0EA54F4-89BA-49AB-908C-E2111B559969}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro name="E End turn" color="4278246655" hidden="false" guid="{A31CDB3A-1478-4C2F-80CD-167B51F8008B}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro name="Space Peek" color="4278246655" hidden="false" guid="{632AB5FA-C4DD-4E20-BCD4-AE2ED819EEDD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro name="Up" color="4278246655" hidden="false" guid="{541738CB-4CC1-4B58-BF90-32CDA9EC3C3E}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="UP"/>
+        </keystroke>
+      </macro>
+      <macro name="Left" color="4278246655" hidden="false" guid="{5D7EBC44-3BC5-49D7-944F-087E90E28A8E}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LEFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Down" color="4278246655" hidden="false" guid="{396DC064-F0FC-4007-A149-1E80D004F361}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="DOWN"/>
+        </keystroke>
+      </macro>
+      <macro name="Right" color="4278246655" hidden="false" guid="{9C86D3E7-92A5-4697-9B31-321846ABD9E2}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RIGHT"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment macroguid="{998C5166-0D54-4F11-9A55-69EA23653896}" original="false" backup="false" shiftstate="1" contextid="G5"/>
+      <assignment macroguid="{A1E8ABD7-3641-4F7C-9C59-EC8831D74B36}" original="false" backup="false" shiftstate="1" contextid="G1"/>
+      <assignment macroguid="{63937DFF-D7C0-4D53-B946-33C514F3F6C6}" original="false" backup="false" shiftstate="1" contextid="G23"/>
+      <assignment macroguid="{D0EA54F4-89BA-49AB-908C-E2111B559969}" original="false" backup="false" shiftstate="1" contextid="G17"/>
+      <assignment macroguid="{632AB5FA-C4DD-4E20-BCD4-AE2ED819EEDD}" original="false" backup="false" shiftstate="1" contextid="G22"/>
+      <assignment macroguid="{3182E00F-BCE0-40E8-8BF8-6F5E40222A0B}" original="false" backup="false" shiftstate="1" contextid="G18"/>
+      <assignment macroguid="{3CDA0B9C-7560-41AB-83DA-3CC3D5B12DE5}" original="false" backup="false" shiftstate="1" contextid="G6"/>
+      <assignment macroguid="{7C548ABA-7674-4660-9381-6DB5F9D370A1}" original="false" backup="false" shiftstate="1" contextid="G13"/>
+      <assignment macroguid="{541738CB-4CC1-4B58-BF90-32CDA9EC3C3E}" original="false" backup="false" shiftstate="1" contextid="G4"/>
+      <assignment macroguid="{5D7EBC44-3BC5-49D7-944F-087E90E28A8E}" original="false" backup="false" shiftstate="1" contextid="G10"/>
+      <assignment macroguid="{396DC064-F0FC-4007-A149-1E80D004F361}" original="false" backup="false" shiftstate="1" contextid="G11"/>
+      <assignment macroguid="{9C86D3E7-92A5-4697-9B31-321846ABD9E2}" original="false" backup="false" shiftstate="1" contextid="G12"/>
+      <assignment macroguid="{A31CDB3A-1478-4C2F-80CD-167B51F8008B}" original="false" backup="false" shiftstate="1" contextid="G3"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode color="#ffffff" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>
