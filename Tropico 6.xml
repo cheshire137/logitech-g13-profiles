@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile launchable="1" gameid="" lock="0" name="Tropico 6" lastplayeddate="2021-12-05T15:54:15" guid="{F1D5C36A-6164-46CE-8F34-D842A4173D47}" gkeysdk="0" gpasupported="0">
+    <description></description>
+    <target path="D:\STEAMLIBRARY\STEAMAPPS\COMMON\TROPICO 6\TROPICO6.EXE"/>
+    <signature executable="" key="" name="" value=""/>
+    <macros>
+      <macro hidden="false" name="Esc" color="4278246655" guid="{A8D81CAF-2CD3-4B42-8E31-7AB49DD7AABE}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="W" color="4278246655" guid="{EAEE2939-AE12-4B23-BBAE-0DCF9456295A}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="A" color="4278246655" guid="{B2250360-1FB6-47C1-9B83-C201C8031289}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="A"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="S" color="4278246655" guid="{4A414510-41D9-4577-A7DC-17BAC970D57E}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="S"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="D" color="4278246655" guid="{0CB88CA2-BC7B-45DA-8C98-D9A3ABB757BB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="2 Construction" color="4278246655" guid="{CE684BA4-2B2B-4B0E-B476-AD27153DC8BD}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="R Road" color="4278246655" guid="{91253C3A-AF87-4E75-9E9C-184259639914}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="P Pause" color="4278246655" guid="{13BF9634-94ED-4E02-B5F5-4FBFD00280AB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="= Speed Up" color="4278246655" guid="{4B4A3041-7E50-4B89-8826-C0E4F7F93620}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="EQUAL"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="- Slow Down" color="4278246655" guid="{2D37AE1E-C0E2-4782-99B7-AC5ED350EF02}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="MINUS"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="Space Archipelago" color="4278246655" guid="{339FAE17-7B70-4DED-984B-17052C52DECB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="R Rotate" color="4278246655" guid="{7B10D11E-4AFC-4AA2-8B8D-B35500BDF7ED}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="Delete Destroy Building" color="4278246655" guid="{E601FBAB-CF56-43D9-BBC5-0018F02EE9E9}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="DELETE"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="F5 Save" color="4278246655" guid="{4E0B4EFA-BE84-4404-8DDB-DE2AB940D476}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F5"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="Q Rotate" color="4278246655" guid="{624BE4B5-EB4D-4CC9-AE6D-0F3812C459DB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="E Rotate" color="4278246655" guid="{AD2A2F01-2FF4-463F-9304-6C6BCEC2910B}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="Tab Next Tab" color="4278246655" guid="{C507C832-D6AC-429C-968D-6B9CFB29DBFB}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="Ctrl" color="4278246655" guid="{844B3AC7-D6EC-4891-AB3E-60F11B0165CA}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="6 Research" color="4278246655" guid="{1DB55791-BB03-4092-A3F4-B16C6A48141C}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="6"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="1 Tasks" color="4278246655" guid="{91F1830E-FC26-4291-8274-A2FF85F36900}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="3 Almanac" color="4278246655" guid="{83D6B0B6-DC5E-48CA-A71F-879F0A79ECEC}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="8 Trade" color="4278246655" guid="{C34DD609-885C-42E4-AD3F-6BE8E91E7FC8}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="8"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="5 Edicts" color="4278246655" guid="{D884B99C-DC45-4DCF-8963-D1BCA64E729A}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="5"/>
+        </keystroke>
+      </macro>
+      <macro hidden="false" name="4 Overlays" color="4278246655" guid="{0B85DE3C-12EC-4517-B110-4BA35D072C04}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="4"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment backup="false" original="false" contextid="G1" macroguid="{A8D81CAF-2CD3-4B42-8E31-7AB49DD7AABE}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G4" macroguid="{EAEE2939-AE12-4B23-BBAE-0DCF9456295A}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G10" macroguid="{B2250360-1FB6-47C1-9B83-C201C8031289}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G11" macroguid="{4A414510-41D9-4577-A7DC-17BAC970D57E}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G12" macroguid="{0CB88CA2-BC7B-45DA-8C98-D9A3ABB757BB}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G13" macroguid="{CE684BA4-2B2B-4B0E-B476-AD27153DC8BD}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G6" macroguid="{91253C3A-AF87-4E75-9E9C-184259639914}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G22" macroguid="{13BF9634-94ED-4E02-B5F5-4FBFD00280AB}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G2" macroguid="{4B4A3041-7E50-4B89-8826-C0E4F7F93620}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G9" macroguid="{2D37AE1E-C0E2-4782-99B7-AC5ED350EF02}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G23" macroguid="{339FAE17-7B70-4DED-984B-17052C52DECB}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G7" macroguid="{4E0B4EFA-BE84-4404-8DDB-DE2AB940D476}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G3" macroguid="{624BE4B5-EB4D-4CC9-AE6D-0F3812C459DB}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G5" macroguid="{AD2A2F01-2FF4-463F-9304-6C6BCEC2910B}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G8" macroguid="{C507C832-D6AC-429C-968D-6B9CFB29DBFB}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G20" macroguid="{844B3AC7-D6EC-4891-AB3E-60F11B0165CA}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G17" macroguid="{1DB55791-BB03-4092-A3F4-B16C6A48141C}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G16" macroguid="{91F1830E-FC26-4291-8274-A2FF85F36900}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G19" macroguid="{83D6B0B6-DC5E-48CA-A71F-879F0A79ECEC}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G18" macroguid="{C34DD609-885C-42E4-AD3F-6BE8E91E7FC8}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G15" macroguid="{D884B99C-DC45-4DCF-8963-D1BCA64E729A}" shiftstate="2"/>
+      <assignment backup="false" original="false" contextid="G21" macroguid="{0B85DE3C-12EC-4517-B110-4BA35D072C04}" shiftstate="2"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode color="#ffffff" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>
