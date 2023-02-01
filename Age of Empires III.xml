@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile guid="{377D3D16-136C-408C-A0ED-C5143AC75401}" gkeysdk="0" lastplayeddate="" lock="0" name="Age of Empires III" launchable="1" gameid="" gpasupported="0">
+    <description></description>
+    <target path="\\?\Volume{1c11f5ab-e6c8-41d5-2ddc-f02652ae5505}\AoE3DE.exe"/>
+    <signature value="" key="" name="" executable=""/>
+    <macros/>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode color="#ffffff" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>
